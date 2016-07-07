@@ -1,4 +1,4 @@
-package com.example.kat.expandablelistview;
+package com.example.kat.expandablelistview.adapter;
 
 import android.view.View;
 import android.view.ViewGroup;
